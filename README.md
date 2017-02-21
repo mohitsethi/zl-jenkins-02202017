@@ -9,3 +9,9 @@
       sudo apt-get update
       sudo apt-get install jenkins
     ```
+
+
+## Sample app - Maven
+  - Repository: https://github.com/mohitsethi/maven-sample-app
+
+  
