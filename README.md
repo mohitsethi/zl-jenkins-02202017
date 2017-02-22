@@ -14,4 +14,11 @@
 ## Sample app - Maven
   - Repository: https://github.com/mohitsethi/maven-sample-app
 
+
+## Remote execution: Jenkins CLI
+
+
+## Jenkins DSL
+  - https://jenkinsci.github.io/job-dsl-plugin
+  - 
   
