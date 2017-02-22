@@ -24,6 +24,7 @@ freeStyleJob('sample-app-from-dsl') {
     steps {
         shell("mvn clean install")
         shell("ls -alh")
+        shell("ls -alh")
     }
 
     publishers {
