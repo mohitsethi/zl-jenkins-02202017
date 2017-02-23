@@ -22,3 +22,16 @@
   - https://jenkinsci.github.io/job-dsl-plugin
   - http://job-dsl.herokuapp.com/
   
+
+## Docker
+  - Prerequisite:
+    - install docker-engine on all slave (wherever relevant)
+  - install docker plugins
+  - Job configuration
+  - Dockerfile reference: https://docs.docker.com/engine/reference/builder/
+  - Cleanup(for standalone docker host) Jenkins slave: 
+      ```
+        sudo docker rm -f $(sudo docker ps -aq)
+      ```
+
+  
